@@ -13,6 +13,14 @@ pnpm dev
 # or
 bun dev
 ```
+## package.json
+```bash
+yarn add bootstrap
+
+yarn add -D @svgr/webpack
+
+yarn add bootstrap-icons
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
